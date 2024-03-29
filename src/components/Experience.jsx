@@ -8,6 +8,7 @@ import firebase from '../assets/experience/firebase.png'
 import react from '../assets/experience/react.png'
 import tailwind from '../assets/experience/tailwind.png'
 import python from '../assets/experience/python.png'
+import java from '../assets/experience/python.png'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 
@@ -19,8 +20,8 @@ const Experience = () => {
     const techs = () => [
         {
             id: 1,
-            scr: html,
-            title: 'HTML',
+            scr: java,
+            title: 'JAVA',
             style: 'shadow-orange-500'
         },
         {

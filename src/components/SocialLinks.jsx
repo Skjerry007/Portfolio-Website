@@ -13,7 +13,7 @@ const SocialLinks = () => {
                     GitHub <FaGithub size={25} />
                 </>
             ),
-            href: "https://www.github.com/dipayansarkar47",
+            href: "https://github.com/Skjerry007",
             style: "rounded-tr-md"
         },
         {
@@ -23,7 +23,7 @@ const SocialLinks = () => {
                     LinkedIn <FaLinkedin size={25} />
                 </>
             ),
-            href: "https://www.linkedin.com/in/dipayan-sarkar-ab465b1b5/",
+            href: "https://www.linkedin.com/in/shashank-awasthi-0843a8142/",
         },
         {
             id: 3,
@@ -32,7 +32,7 @@ const SocialLinks = () => {
                     Mail <HiOutlineMail size={25} />
                 </>
             ),
-            href: "mailto:dipayansarkar265482@gmail.com",
+            href: "mailto:awasthipriyanshu13@gmail.com",
         },
         {
             id: 4,
@@ -41,7 +41,7 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={25} />
                 </>
             ),
-            href: "/Dipayan's Resume.pdf",
+            href: "/https://drive.google.com/file/d/1IN8zpVevJ8Sfo8N0_idzuFDYeJRHCK-P/view?usp=sharing",
             style: "rounded-br-md",
             download: true
         },
