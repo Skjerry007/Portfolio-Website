@@ -19,11 +19,20 @@ const About = () => {
                 </div>
 
                 <p data-aos="slide-up" data-aos-duration="500" className='text-xl mt-5 ease-in fade-in'>
-                    I embarked my journey as a B.Tech Computer Science & Engineering student at Ramkrishna Mahato Government Engineering College in 2020. Along the way, I fearlessly explored various fields, including Graphic Designing, Content Creation, Freelancing, and Entrepreneurship. I delved into the world of cutting-edge technologies, such as Python, Cloud computing, React, Flutter, and Firebase. I also took my passion for technology and leadership to new heights by co-establishing Google Developer Student Clubs and the E-Cell in my college, alongside my equally enthusiastic classmates. At present, I serve GDSC RKMGEC as the Co-Lead and holds the significant responsibility of being the In-Charge of E-Cell RKMGEC.
+                🚀 2.5 Years Experience: Full Stack SDET 🚀
+
+🔹 Proficient in Selenium for Web Application Testing and Postman for REST API Testing.
+🔹 Expertise in complex projects covering Smoke, Sanity, Regression, and Functional Testing.
+🔹 Specialized in Blockchain Technology for Supply Chain Management using APIs.
+🔹 Skilled in understanding Requirements and Functional Specifications.
+🔹 Creator of Rest Assured and Karate automation frameworks.
+🔹 Tech blogger, writer, and advocate for the importance of SDET roles.
+🔹 Committed to changing perceptions and elevating the value of SDET roles in companies.
+
+Beyond Bugs: Empowering SDET Excellence!
                 </p>
-                <br />
+               { /* <br />
                 <p data-aos="slide-up" data-aos-duration="500" className='text-xl mt-5 ease-in fade-in'>
-                    In a constant pursuit of sharing knowledge and fostering growth, I've organized numerous technical workshops, imparting valuable insights on technologies like Python, Android, and Google Cloud to aspiring learners. With a commitment to personal development and a drive for making a positive impact within the tech community.
                 </p>
                 {/* <br />
                 <p data-aos="fade-in" data-aos-duration="500" className='text-xl mt-5 ease-in  fade-in'>
@@ -33,7 +42,7 @@ const About = () => {
 
 
                     <AiOutlineCloudDownload />
-                    <a href="/" download>Download CV</a>
+                    <a href="https://drive.google.com/file/d/1IN8zpVevJ8Sfo8N0_idzuFDYeJRHCK-P/view?usp=sharing" ShashankAwasthiSDET_Resume>Download Resume</a>
                 </div>
             </div>
         </div>
